@@ -1,0 +1,30 @@
+¿Qué son los objetos? 
+Los objetos son instancias que siguen un patron
+definido, pueden tener coordenadas y
+diferentes funcionalidades.
+¿Qué es una clase?
+- Es un plano de lo que quiero hacer, compuesto por los
+atributos y los metodos.
+¿Qué son las propiedades / métodos?
+Los metodos pueden ser publicos o privados
+Los constructores son metodos 
+Son acciones que puede realizar un objeto
+¿Qué es el self?
+Se refiere al objeto instanciado de la clase sobre
+la cual se esta invocando un metodo.
+
+¿Por qué es importante la POO?
+porque nos permite modelar de manera sencilla datos y 
+comportamientos complejos del mundo real. 
+Al poder manejar los datos y los comportamientos de cada
+objeto de manera independiente nos evita tener que 
+mantener datos globales y coordinar todo eso
+objetos orientados a programacion
+
+class
+attributes
+methods
+instance/object
+public/private/protected
+inheritance
+
